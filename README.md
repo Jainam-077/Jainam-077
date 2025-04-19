@@ -4,7 +4,7 @@ Aspiring Data Scientist | Final Year IT Student | Passionate about AI, ML & Data
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
 [![Resume](https://img.shields.io/badge/Resume-PDF-informational?style=flat-square&logo=adobeacrobatreader&logoColor=white&color=FF6F61)](https://your-resume-link.com)  
-📫 Email: [your.email@gmail.com](mailto:your.email@gmail.com)  
+📫 Email: [prajapati.jainam.077@gmail.com](mailto:your.email@gmail.com)  
 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
