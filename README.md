@@ -11,7 +11,7 @@ Aspiring Data Scientist | Final Year IT Student | Passionate about AI, ML & Data
 
 ### 🚀 About Me
 
-I'm a final-year Information Technology student from a Tier-3 college, passionate about turning raw data into meaningful insights using machine learning and visualization tools. I’m actively building real-world data science projects and preparing for internships and entry-level roles in the field of data.
+I'm a final-year Information Technology student, passionate about turning raw data into meaningful insights using machine learning and visualization tools. I’m actively building real-world data science projects and preparing for internships and entry-level roles in the field of data.
 
 ---
 
@@ -19,8 +19,8 @@ I'm a final-year Information Technology student from a Tier-3 college, passionat
 
 - **Languages**: Python, SQL, HTML/CSS
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
-- **Tools**: Jupyter Notebook, VS Code, Git, GitHub, Streamlit
-- **Databases**: MySQL, SQLite
+- **Tools**: Jupyter Notebook, VS Code, Git, GitHub
+- **Databases**: MySQL, SQL
 - **Soft Skills**: Problem Solving, Team Collaboration, Communication
 
 ---
