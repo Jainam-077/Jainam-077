@@ -19,10 +19,10 @@
 
 ## 📊 Projects
 
-### 🔬 Heart Disease Detection Using Machine Learning
-- Built ML models (Logistic Regression, Random Forest, SVM) using UCI Heart Disease Dataset  
-- Achieved over 90% accuracy  
-- Visualized feature importance and model performance
+### 🔬 Lung Cancer Detection Using CNN
+- Built a deep learning model using CNN to classify lung CT scans as Benign, Malignant, or Normal
+- Preprocessed image dataset with OpenCV and augmented data to improve model generalization
+- Achieved 80-85% accuracy; evaluated using confusion matrix and classification report
 
 ### 📈 Sales Dashboard with Power BI
 - Designed an interactive dashboard for analyzing sales trends across regions  
@@ -31,9 +31,11 @@
 ## 📜 Certifications
 - Python for Data Science – Great Learning  
 - Machine Learning with Python – IBM (Coursera)  
-- NLP with TensorFlow – DeepLearning.AI  
 - Career Essentials in Data Analytics – Microsoft & LinkedIn Learning  
 - Intro to Generative AI – Google (Coursera)
+- Data Visualization Job Simulation - Tata Groups (Forage)
+- Data Analytics Simulation - Deloitte (Forage)
+
 
 ## 📫 Connect with Me
 - 📧 Email: prajapati.jainam.07@gmail.com  
