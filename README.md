@@ -20,9 +20,9 @@
 ## 📊 Projects
 
 ### 🔬 Lung Cancer Detection Using CNN
-- Built a deep learning model using CNN to classify lung CT scans as Benign, Malignant, or Normal
-- Preprocessed image dataset with OpenCV and augmented data to improve model generalization
-- Achieved 80-85% accuracy; evaluated using confusion matrix and classification report
+- Built a deep learning model to classify lung CT scan images into benign, malignant, or normal categories using CNN architecture.
+- Preprocessed the dataset using resizing, normalization, and augmentation to improve performance.
+- Achieved over 80% accuracy on validation data using Dropout, MaxPooling, and ReLU activation.
 
 ### 📈 Sales Dashboard with Power BI
 - Designed an interactive dashboard for analyzing sales trends across regions  
