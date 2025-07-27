@@ -34,6 +34,7 @@
 - Machine Learning with Python – IBM (Coursera)  
 - Career Essentials in Data Analytics – Microsoft & LinkedIn Learning  
 - Intro to Generative AI – Google (Coursera)
+- Introduction to LLM - Google (Coursera)
 - Data Visualization Job Simulation - Tata Groups (Forage)
 - Data Analytics Simulation - Deloitte (Forage)
 
